@@ -1,0 +1,14 @@
+:root{
+    --background-body: #131416;
+    --color-font: #ffff;
+    --color-button: #0772eb;
+    --color-card: #1e212c;
+}
+
+body{
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Inter', sans-serif;
+
+}
+
